@@ -1,0 +1,8 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+}
+
+.coin_title {
+  text-transform: capitalize;
+}
