@@ -5,4 +5,10 @@ body {
 
 .coin_title {
   text-transform: capitalize;
+  float:left;
+  width: 42%;
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px black;
+  border-radius: 5px;
 }
