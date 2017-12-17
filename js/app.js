@@ -13,6 +13,7 @@ fetch(url)
   // for each coin, create a list with properties
   for(var prop in coins){
     console.log(coins[prop]);
+    
     // create new elements for list / sub-lists
     const liTop = document.createElement('li');
     const ulBottom = document.createElement('ul');
